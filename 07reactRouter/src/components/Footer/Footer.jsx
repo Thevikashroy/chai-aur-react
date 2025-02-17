@@ -76,6 +76,7 @@ export default function Footer() {
 
   const followUsLinks = [
     { href: "https://github.com/Thevikashroy", text: "Github" }, // Correct link to your GitHub profile
+    { href: "www.linkedin.com/in/ vikash-kumar018382221", text: "Linkedin" }, // Correct link to your GitHub profile
     { to: "/", text: "Discord" }, // Internal link to Discord or another page
   ];
 
